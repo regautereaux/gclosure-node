@@ -1,0 +1,18 @@
+{
+    "author": "Johannes Küber <johannes@kueber.eu>",
+    "name": "gclosure",
+    "description": "Google Closure Templates for Node.JS and Express",
+    "version": "0.1.0",
+    "keywords": ["google", "templates", "express", "google closure", "closure"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/johnnycube/gclosure-node.git",
+      "web" : "http://github.com/SpeCT/node-c2dm"
+     },
+    "engines": { "node": ">= 0.6.0" },
+    "dependencies": {
+        "fs" : "x",
+	"express": ">3.x",
+	"jade" : "0.27.x"
+    }
+}
